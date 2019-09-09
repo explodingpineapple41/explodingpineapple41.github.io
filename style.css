@@ -1,0 +1,55 @@
+#urlinput
+{
+    border-radius: 186px;
+    border-color: rgb(0, 0, 0);
+    padding: 20px; 
+    width: 1000px;
+    height: 15px;    
+    font-family: 'Roboto', sans-serif;
+    resize: none;
+    text-emphasis: bold;
+    overflow: hidden;
+    vertical-align: middle;
+}
+#enter
+{
+    border-radius: 186px;
+    border-color: rgb(0, 0, 0);
+    padding: 0px; 
+    width: 55px;
+    height: 55px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    vertical-align: middle;
+    text-align: center;
+}
+#home
+{
+    border: none;
+    border-color: rgb(0, 0, 0);
+    background: white;
+    padding: 0px; 
+    width: 55px;
+    height: 55px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    vertical-align: middle;
+    text-align: center;
+    text-emphasis: bold;
+}
+#search
+{
+    width: 75%;
+    margin: 0 auto;
+}
+#window
+{
+    float: initial;
+    width: 1300px;
+    height: 765px;
+}
+#iframeholder
+{
+    margin: 0 auto;
+    width: 75%;
+}
